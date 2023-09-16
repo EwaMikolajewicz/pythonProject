@@ -1,72 +1,72 @@
-# value = 10000
-# percent = 8
-# years = 3
-# result = value*(1+percent/100)**years
-# print(result-value)
-#
-# val1 = 'Hello'
-# val2 = 5
-# print(val1*val2)
-# print('Byłam wczoraj na filmie "AAA"')
-# print('I\'m')
-# n = 'First line.\nSecond line.'
-# print(n)
-# t = '\tTab line.'
-# print(t)
-# print('C:\some\name')
-# print(r'C:\some\name')
-# x = 36  # x to temperatura
-# print(x)
-# y = 48
-# """ y to wiek """
-# print(y)
-# z = 65
-# '''
-# z to waga
-# z to waga
-# z to waga
-# z to waga
-# z to waga
-# '''
-# print(z)
-#
-# word = 'Python'
-# print(word[0])
-# print(word[1])
-# print(word[2])
-# print(word[3])
-# print(word[4])
-# print(word[5])
-# print(word[0:2])
-#
-# for i in range(0, len(word)):
-#     print(word[i])
-#
-# name = 'Adela'
-# if name[-1] == 'a':
-#     print('Imie damskie')
-#
-# print(word[:2])
-# print(word[2:])
-# print(word[:2] + word[2:])
-#
-# word1 = 'Python'
-# word2 = 'J' + word1[1:]
-# print(word2)
-#
-# s = 'jdhgfhkjhoexwbycrbwnxdmozo,omouxfuxgehd   dhngfnlamdz,;'
-# s_len = len(s)
-# print(s_len)
-# print(s[s_len-1])
-#
-# lata = input()
-# oprocentowanie = input("wprowadź oprocentowanie: ")
-# print(lata)
-# print(oprocentowanie)
+value = 10000
+percent = 8
+years = 3
+result = value*(1+percent/100)**years
+print(result-value)
 
-# imie = input("podaj imie:\n")
-# wiek = input("podaj wiek:\n")
-# print('Twoje imię to ' + imie + '. Twój wiek to ' + wiek)
+val1 = 'Hello'
+val2 = 5
+print(val1*val2)
+print('Byłam wczoraj na filmie "AAA"')
+print('I\'m')
+n = 'First line.\nSecond line.'
+print(n)
+t = '\tTab line.'
+print(t)
+print('C:\some\name')
+print(r'C:\some\name')
+x = 36  # x to temperatura
+print(x)
+y = 48
+""" y to wiek """
+print(y)
+z = 65
+'''
+z to waga
+z to waga
+z to waga
+z to waga
+z to waga
+'''
+print(z)
+
+word = 'Python'
+print(word[0])
+print(word[1])
+print(word[2])
+print(word[3])
+print(word[4])
+print(word[5])
+print(word[0:2])
+
+for i in range(0, len(word)):
+    print(word[i])
+
+name = 'Adela'
+if name[-1] == 'a':
+    print('Imie damskie')
+
+print(word[:2])
+print(word[2:])
+print(word[:2] + word[2:])
+
+word1 = 'Python'
+word2 = 'J' + word1[1:]
+print(word2)
+
+s = 'jdhgfhkjhoexwbycrbwnxdmozo,omouxfuxgehd   dhngfnlamdz,;'
+s_len = len(s)
+print(s_len)
+print(s[s_len-1])
+
+lata = input()
+oprocentowanie = input("wprowadź oprocentowanie: ")
+print(lata)
+print(oprocentowanie)
+
+imie = input("podaj imie:\n")
+wiek = input("podaj wiek:\n")
+print('Twoje imię to ' + imie + '. Twój wiek to ' + wiek)
 
 squares = [1, 4, 9, 16, 25]
 print(squares)
